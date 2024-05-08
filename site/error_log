@@ -1,0 +1,16 @@
+[08-Jan-2024 07:53:17 UTC] PHP Notice:  Undefined variable: result in /home/f478mh8nthnl/public_html/sarvamangalachemicals.com/site/index.php on line 29
+[08-Jan-2024 07:53:41 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/f478mh8nthnl/public_html/sarvamangalachemicals.com/site/index.php:29
+Stack trace:
+#0 /home/f478mh8nthnl/public_html/sarvamangalachemicals.com/site/index.php(19): sendMail()
+#1 {main}
+  thrown in /home/f478mh8nthnl/public_html/sarvamangalachemicals.com/site/index.php on line 29
+[08-Jan-2024 07:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/f478mh8nthnl/public_html/sarvamangalachemicals.com/site/index.php:31
+Stack trace:
+#0 /home/f478mh8nthnl/public_html/sarvamangalachemicals.com/site/index.php(21): sendMail()
+#1 {main}
+  thrown in /home/f478mh8nthnl/public_html/sarvamangalachemicals.com/site/index.php on line 31
+[08-Jan-2024 07:54:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/f478mh8nthnl/public_html/sarvamangalachemicals.com/site/index.php:31
+Stack trace:
+#0 /home/f478mh8nthnl/public_html/sarvamangalachemicals.com/site/index.php(21): sendMail()
+#1 {main}
+  thrown in /home/f478mh8nthnl/public_html/sarvamangalachemicals.com/site/index.php on line 31
